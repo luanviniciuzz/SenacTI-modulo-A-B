@@ -1,0 +1,11 @@
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC03\Atv 2\bin\Debug\netcoreapp3.1\Atv 2.exe
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC03\Atv 2\bin\Debug\netcoreapp3.1\Atv 2.deps.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC03\Atv 2\bin\Debug\netcoreapp3.1\Atv 2.runtimeconfig.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC03\Atv 2\bin\Debug\netcoreapp3.1\Atv 2.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC03\Atv 2\bin\Debug\netcoreapp3.1\Atv 2.dll
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC03\Atv 2\bin\Debug\netcoreapp3.1\Atv 2.pdb
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC03\Atv 2\obj\Debug\netcoreapp3.1\Atv 2.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC03\Atv 2\obj\Debug\netcoreapp3.1\Atv 2.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC03\Atv 2\obj\Debug\netcoreapp3.1\Atv 2.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC03\Atv 2\obj\Debug\netcoreapp3.1\Atv 2.dll
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC03\Atv 2\obj\Debug\netcoreapp3.1\Atv 2.pdb

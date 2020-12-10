@@ -1,0 +1,35 @@
+@model IEnumerable<Atividade_2.Models.pacoteRepository>
+
+<br>
+<a href="/Pacotes/CadastrarPacote">[Inserir novos Pacotes de Viagens]</a>
+<br>
+<p id="pMensagem">@ViewBag.Mensagem</p>
+<table class="table"> 
+<thead>
+<tr>
+    <th>Nome do Pacote</th>
+    <th>Origem</th>
+    <th>Destino</th>
+    <th>Atrativos</th>
+    <th>Saída</th>
+    <th>Retorno</th> 
+</tr>
+</thead>
+<tbody>
+    @foreach (pacoteRepository item in Model)
+    {
+     <tr>
+        <td>@item.nomePacote</td>
+        <td>@item.origem</td>
+        <td>@item.destino</td>
+        <td>@item.atrativos</td>
+        <td>@item.saida</td>
+        <td>@item.retorno</td>
+        <td><a href="/Pacotes/Detalhes?idPacote=@item.idPacote">Detalhes |</a></td>
+        <td><a href="/Pacotes/ExcluirPacote?idPacote=@item.idPacote"> Excluir |</a></td>
+        <td><a href="/Pacotes/Editar?idPacote=@item.idPacote"> Editar </a></td>
+        
+    </tr> 
+    }
+</tbody>
+</table>

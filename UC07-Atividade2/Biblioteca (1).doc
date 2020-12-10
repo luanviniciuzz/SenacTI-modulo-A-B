@@ -1,0 +1,1308 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+		xmlns:w="urn:schemas-microsoft-com:office:word"
+		xmlns="http://www.w3.org/TR/REC-html40">
+		<head><meta charset="utf-8"></head><body><table class="table table-striped table-bordered table-condensed no-margin small">
+<tr>
+	<td class="bold" colspan="6">
+		Ver Detalhes da Tarefa	</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr class="bold">
+	<td width="16%">
+		Núm:	</td>
+	<td width="16%">
+		Categoria:	</td>
+	<td width="16%">
+		Gravidade:	</td>
+	<td width="16%">
+		Freqüência:	</td>
+	<td width="16%">
+		Data de Envio:	</td>
+	<td width="16%">
+		Última Atualização:	</td>
+</tr>
+<tr>
+	<td>
+		7	</td>
+	<td>
+		[Biblioteca] General	</td>
+	<td>
+		obstáculo	</td>
+	<td>
+		não se tentou	</td>
+	<td>
+		2020-11-03 01:18	</td>
+	<td>
+		2020-11-03 01:19	</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr>
+	<td class="bold">
+		Relator:	</td>
+	<td>
+		<span >administrator</span>	</td>
+	<td class="bold">
+		Plataforma:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Atribuído a:	</td>
+	<td>
+			</td>
+	<td class="bold">
+		SO:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Prioridade:	</td>
+	<td>
+		alta	</td>
+	<td class="bold">
+		Versão SO:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Estado:	</td>
+	<td>
+		atribuído	</td>
+	<td class="bold">
+		Versão do Produto:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Compilação do Produto:	</td>
+	<td>
+			</td>
+	<td class="bold">
+		Resolução:	</td>
+	<td>
+		aberto	</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Projeção:	</td>
+	<td>
+		nenhuma	</td>
+	<td class="bold">
+		&#160;
+	</td>
+	<td>
+		&#160;
+	</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Tempo Estimado:	</td>
+	<td>
+		nenhum	</td>
+	<td class="bold">
+		Corrigido na Versão:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+
+</tr>
+<tr>
+	<td class="bold">
+		&#160;
+	</td>
+	<td>
+		&#160;
+	</td>
+	<td class="bold">
+		Previsto para a Versão:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr>
+	<td class="bold">
+		Resumo:	</td>
+	<td colspan="5">
+		Criar um cadastro de Usuários;	</td>
+</tr>
+<tr>
+	<td class="bold">
+		Descrição:	</td>
+	<td colspan="5">
+		Criar um cadastro de usuários e permitir que esses usuários possam logar no sistema.	</td>
+</tr>
+<tr>
+	<td class="print">
+		Marcadores:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+<tr>
+	<td class="bold">
+		Passos para Reproduzir:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+<tr>
+	<td class="bold">
+		Informações Adicionais:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+<tr>
+	<td class="bold">
+		Arquivos Anexados:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+
+<tr class="spacer"><td colspan="6"></td></tr>
+</table>
+
+
+<table class="table table-striped table-bordered table-condensed no-margin small">
+<tr>
+	<td class="bold" colspan="2">
+		Não há anotações anexadas a esta tarefa.	</td>
+</tr>
+</table>
+
+
+
+<hr><br style="mso-special-character: line-break; page-break-before: always" /><table class="table table-striped table-bordered table-condensed no-margin small">
+<tr>
+	<td class="bold" colspan="6">
+		Ver Detalhes da Tarefa	</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr class="bold">
+	<td width="16%">
+		Núm:	</td>
+	<td width="16%">
+		Categoria:	</td>
+	<td width="16%">
+		Gravidade:	</td>
+	<td width="16%">
+		Freqüência:	</td>
+	<td width="16%">
+		Data de Envio:	</td>
+	<td width="16%">
+		Última Atualização:	</td>
+</tr>
+<tr>
+	<td>
+		2	</td>
+	<td>
+		[Biblioteca] General	</td>
+	<td>
+		grande	</td>
+	<td>
+		sempre	</td>
+	<td>
+		2020-10-29 01:18	</td>
+	<td>
+		2020-10-30 01:46	</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr>
+	<td class="bold">
+		Relator:	</td>
+	<td>
+		<span >administrator</span>	</td>
+	<td class="bold">
+		Plataforma:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Atribuído a:	</td>
+	<td>
+			</td>
+	<td class="bold">
+		SO:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Prioridade:	</td>
+	<td>
+		alta	</td>
+	<td class="bold">
+		Versão SO:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Estado:	</td>
+	<td>
+		resolvido	</td>
+	<td class="bold">
+		Versão do Produto:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Compilação do Produto:	</td>
+	<td>
+			</td>
+	<td class="bold">
+		Resolução:	</td>
+	<td>
+		corrigido	</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Projeção:	</td>
+	<td>
+		nenhuma	</td>
+	<td class="bold">
+		&#160;
+	</td>
+	<td>
+		&#160;
+	</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Tempo Estimado:	</td>
+	<td>
+		nenhum	</td>
+	<td class="bold">
+		Corrigido na Versão:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+
+</tr>
+<tr>
+	<td class="bold">
+		&#160;
+	</td>
+	<td>
+		&#160;
+	</td>
+	<td class="bold">
+		Previsto para a Versão:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr>
+	<td class="bold">
+		Resumo:	</td>
+	<td colspan="5">
+		Função de Devolvido	</td>
+</tr>
+<tr>
+	<td class="bold">
+		Descrição:	</td>
+	<td colspan="5">
+		Deve aparecer uma sinalização referente a opção &quot;devolvido&quot; marcado na parte e edição de listagem.	</td>
+</tr>
+<tr>
+	<td class="print">
+		Marcadores:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+<tr>
+	<td class="bold">
+		Passos para Reproduzir:	</td>
+	<td colspan="5">
+		Clicar em editar.	</td>
+</tr>
+<tr>
+	<td class="bold">
+		Informações Adicionais:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+<tr>
+	<td class="bold">
+		Arquivos Anexados:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+
+<tr class="spacer"><td colspan="6"></td></tr>
+</table>
+
+
+<table class="table table-striped table-bordered table-condensed no-margin small">
+<tr>
+	<td class="bold" colspan="2">
+		Não há anotações anexadas a esta tarefa.	</td>
+</tr>
+</table>
+
+
+
+<hr><br style="mso-special-character: line-break; page-break-before: always" /><table class="table table-striped table-bordered table-condensed no-margin small">
+<tr>
+	<td class="bold" colspan="6">
+		Ver Detalhes da Tarefa	</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr class="bold">
+	<td width="16%">
+		Núm:	</td>
+	<td width="16%">
+		Categoria:	</td>
+	<td width="16%">
+		Gravidade:	</td>
+	<td width="16%">
+		Freqüência:	</td>
+	<td width="16%">
+		Data de Envio:	</td>
+	<td width="16%">
+		Última Atualização:	</td>
+</tr>
+<tr>
+	<td>
+		3	</td>
+	<td>
+		[Biblioteca] General	</td>
+	<td>
+		grande	</td>
+	<td>
+		sempre	</td>
+	<td>
+		2020-10-29 01:20	</td>
+	<td>
+		2020-10-30 01:11	</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr>
+	<td class="bold">
+		Relator:	</td>
+	<td>
+		<span >administrator</span>	</td>
+	<td class="bold">
+		Plataforma:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Atribuído a:	</td>
+	<td>
+			</td>
+	<td class="bold">
+		SO:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Prioridade:	</td>
+	<td>
+		normal	</td>
+	<td class="bold">
+		Versão SO:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Estado:	</td>
+	<td>
+		resolvido	</td>
+	<td class="bold">
+		Versão do Produto:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Compilação do Produto:	</td>
+	<td>
+			</td>
+	<td class="bold">
+		Resolução:	</td>
+	<td>
+		corrigido	</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Projeção:	</td>
+	<td>
+		nenhuma	</td>
+	<td class="bold">
+		&#160;
+	</td>
+	<td>
+		&#160;
+	</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Tempo Estimado:	</td>
+	<td>
+		nenhum	</td>
+	<td class="bold">
+		Corrigido na Versão:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+
+</tr>
+<tr>
+	<td class="bold">
+		&#160;
+	</td>
+	<td>
+		&#160;
+	</td>
+	<td class="bold">
+		Previsto para a Versão:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr>
+	<td class="bold">
+		Resumo:	</td>
+	<td colspan="5">
+		Edição de empréstimos (telefone)	</td>
+</tr>
+<tr>
+	<td class="bold">
+		Descrição:	</td>
+	<td colspan="5">
+		A atualização do empréstimo deve permitir apenas a edição do campo de livro e dos campos de data. Deve bloquear a edição do telefone assim como estar no campo &quot;Nome&quot;. 	</td>
+</tr>
+<tr>
+	<td class="print">
+		Marcadores:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+<tr>
+	<td class="bold">
+		Passos para Reproduzir:	</td>
+	<td colspan="5">
+		Clicar em editar, na parte de listagem 	</td>
+</tr>
+<tr>
+	<td class="bold">
+		Informações Adicionais:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+<tr>
+	<td class="bold">
+		Arquivos Anexados:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+
+<tr class="spacer"><td colspan="6"></td></tr>
+</table>
+
+
+<table class="table table-striped table-bordered table-condensed no-margin small">
+<tr>
+	<td class="bold" colspan="2">
+		Não há anotações anexadas a esta tarefa.	</td>
+</tr>
+</table>
+
+
+
+<hr><br style="mso-special-character: line-break; page-break-before: always" /><table class="table table-striped table-bordered table-condensed no-margin small">
+<tr>
+	<td class="bold" colspan="6">
+		Ver Detalhes da Tarefa	</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr class="bold">
+	<td width="16%">
+		Núm:	</td>
+	<td width="16%">
+		Categoria:	</td>
+	<td width="16%">
+		Gravidade:	</td>
+	<td width="16%">
+		Freqüência:	</td>
+	<td width="16%">
+		Data de Envio:	</td>
+	<td width="16%">
+		Última Atualização:	</td>
+</tr>
+<tr>
+	<td>
+		1	</td>
+	<td>
+		[Biblioteca] General	</td>
+	<td>
+		grande	</td>
+	<td>
+		sempre	</td>
+	<td>
+		2020-10-29 01:17	</td>
+	<td>
+		2020-10-30 01:07	</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr>
+	<td class="bold">
+		Relator:	</td>
+	<td>
+		<span >administrator</span>	</td>
+	<td class="bold">
+		Plataforma:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Atribuído a:	</td>
+	<td>
+			</td>
+	<td class="bold">
+		SO:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Prioridade:	</td>
+	<td>
+		alta	</td>
+	<td class="bold">
+		Versão SO:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Estado:	</td>
+	<td>
+		resolvido	</td>
+	<td class="bold">
+		Versão do Produto:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Compilação do Produto:	</td>
+	<td>
+			</td>
+	<td class="bold">
+		Resolução:	</td>
+	<td>
+		corrigido	</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Projeção:	</td>
+	<td>
+		nenhuma	</td>
+	<td class="bold">
+		&#160;
+	</td>
+	<td>
+		&#160;
+	</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Tempo Estimado:	</td>
+	<td>
+		nenhum	</td>
+	<td class="bold">
+		Corrigido na Versão:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+
+</tr>
+<tr>
+	<td class="bold">
+		&#160;
+	</td>
+	<td>
+		&#160;
+	</td>
+	<td class="bold">
+		Previsto para a Versão:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr>
+	<td class="bold">
+		Resumo:	</td>
+	<td colspan="5">
+		Acesso restrito a usuários logados.	</td>
+</tr>
+<tr>
+	<td class="bold">
+		Descrição:	</td>
+	<td colspan="5">
+		Todas as páginas, exceto a de log in, devem ter acesso restrito a usuários logados. <br />
+Quando um usuário tentar entrar em uma página protegida (seja por URL, seja por link), ele deverá ser redirecionado ao log in. <br />
+	</td>
+</tr>
+<tr>
+	<td class="print">
+		Marcadores:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+<tr>
+	<td class="bold">
+		Passos para Reproduzir:	</td>
+	<td colspan="5">
+		Acessando o menu Empréstimo e selecionando Listagem ou Cadastro 	</td>
+</tr>
+<tr>
+	<td class="bold">
+		Informações Adicionais:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+<tr>
+	<td class="bold">
+		Arquivos Anexados:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+
+<tr class="spacer"><td colspan="6"></td></tr>
+</table>
+
+
+<table class="table table-striped table-bordered table-condensed no-margin small">
+<tr>
+	<td class="bold" colspan="2">
+		Não há anotações anexadas a esta tarefa.	</td>
+</tr>
+</table>
+
+
+
+<hr><br style="mso-special-character: line-break; page-break-before: always" /><table class="table table-striped table-bordered table-condensed no-margin small">
+<tr>
+	<td class="bold" colspan="6">
+		Ver Detalhes da Tarefa	</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr class="bold">
+	<td width="16%">
+		Núm:	</td>
+	<td width="16%">
+		Categoria:	</td>
+	<td width="16%">
+		Gravidade:	</td>
+	<td width="16%">
+		Freqüência:	</td>
+	<td width="16%">
+		Data de Envio:	</td>
+	<td width="16%">
+		Última Atualização:	</td>
+</tr>
+<tr>
+	<td>
+		6	</td>
+	<td>
+		[Biblioteca] General	</td>
+	<td>
+		grande	</td>
+	<td>
+		sempre	</td>
+	<td>
+		2020-10-29 01:24	</td>
+	<td>
+		2020-10-29 01:24	</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr>
+	<td class="bold">
+		Relator:	</td>
+	<td>
+		<span >administrator</span>	</td>
+	<td class="bold">
+		Plataforma:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Atribuído a:	</td>
+	<td>
+			</td>
+	<td class="bold">
+		SO:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Prioridade:	</td>
+	<td>
+		normal	</td>
+	<td class="bold">
+		Versão SO:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Estado:	</td>
+	<td>
+		novo	</td>
+	<td class="bold">
+		Versão do Produto:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Compilação do Produto:	</td>
+	<td>
+			</td>
+	<td class="bold">
+		Resolução:	</td>
+	<td>
+		aberto	</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Projeção:	</td>
+	<td>
+		nenhuma	</td>
+	<td class="bold">
+		&#160;
+	</td>
+	<td>
+		&#160;
+	</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Tempo Estimado:	</td>
+	<td>
+		nenhum	</td>
+	<td class="bold">
+		Corrigido na Versão:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+
+</tr>
+<tr>
+	<td class="bold">
+		&#160;
+	</td>
+	<td>
+		&#160;
+	</td>
+	<td class="bold">
+		Previsto para a Versão:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr>
+	<td class="bold">
+		Resumo:	</td>
+	<td colspan="5">
+		Todos os campos são obrigatórios	</td>
+</tr>
+<tr>
+	<td class="bold">
+		Descrição:	</td>
+	<td colspan="5">
+		Os campos ao cadastrar um empréstimo devem ser obrigatórios.	</td>
+</tr>
+<tr>
+	<td class="print">
+		Marcadores:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+<tr>
+	<td class="bold">
+		Passos para Reproduzir:	</td>
+	<td colspan="5">
+		Deixando qualquer opção em branco 	</td>
+</tr>
+<tr>
+	<td class="bold">
+		Informações Adicionais:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+<tr>
+	<td class="bold">
+		Arquivos Anexados:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+
+<tr class="spacer"><td colspan="6"></td></tr>
+</table>
+
+
+<table class="table table-striped table-bordered table-condensed no-margin small">
+<tr>
+	<td class="bold" colspan="2">
+		Não há anotações anexadas a esta tarefa.	</td>
+</tr>
+</table>
+
+
+
+<hr><br style="mso-special-character: line-break; page-break-before: always" /><table class="table table-striped table-bordered table-condensed no-margin small">
+<tr>
+	<td class="bold" colspan="6">
+		Ver Detalhes da Tarefa	</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr class="bold">
+	<td width="16%">
+		Núm:	</td>
+	<td width="16%">
+		Categoria:	</td>
+	<td width="16%">
+		Gravidade:	</td>
+	<td width="16%">
+		Freqüência:	</td>
+	<td width="16%">
+		Data de Envio:	</td>
+	<td width="16%">
+		Última Atualização:	</td>
+</tr>
+<tr>
+	<td>
+		5	</td>
+	<td>
+		[Biblioteca] General	</td>
+	<td>
+		pequeno	</td>
+	<td>
+		sempre	</td>
+	<td>
+		2020-10-29 01:23	</td>
+	<td>
+		2020-10-29 01:23	</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr>
+	<td class="bold">
+		Relator:	</td>
+	<td>
+		<span >administrator</span>	</td>
+	<td class="bold">
+		Plataforma:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Atribuído a:	</td>
+	<td>
+			</td>
+	<td class="bold">
+		SO:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Prioridade:	</td>
+	<td>
+		normal	</td>
+	<td class="bold">
+		Versão SO:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Estado:	</td>
+	<td>
+		novo	</td>
+	<td class="bold">
+		Versão do Produto:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Compilação do Produto:	</td>
+	<td>
+			</td>
+	<td class="bold">
+		Resolução:	</td>
+	<td>
+		aberto	</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Projeção:	</td>
+	<td>
+		nenhuma	</td>
+	<td class="bold">
+		&#160;
+	</td>
+	<td>
+		&#160;
+	</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Tempo Estimado:	</td>
+	<td>
+		nenhum	</td>
+	<td class="bold">
+		Corrigido na Versão:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+
+</tr>
+<tr>
+	<td class="bold">
+		&#160;
+	</td>
+	<td>
+		&#160;
+	</td>
+	<td class="bold">
+		Previsto para a Versão:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr>
+	<td class="bold">
+		Resumo:	</td>
+	<td colspan="5">
+		Considerar textos inteiros ou parciais	</td>
+</tr>
+<tr>
+	<td class="bold">
+		Descrição:	</td>
+	<td colspan="5">
+		A listagem deve conter ainda funcionalidade de filtro por usuário e título do livro. Os filtros devem considerar texto inteiro (título completo de um livro, por exemplo) ou textos parciais (parte do título de um livro, por exemplo), tanto para título quanto para autor. 	</td>
+</tr>
+<tr>
+	<td class="print">
+		Marcadores:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+<tr>
+	<td class="bold">
+		Passos para Reproduzir:	</td>
+	<td colspan="5">
+		Tentar digitar metade do titulo de um livro. 	</td>
+</tr>
+<tr>
+	<td class="bold">
+		Informações Adicionais:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+<tr>
+	<td class="bold">
+		Arquivos Anexados:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+
+<tr class="spacer"><td colspan="6"></td></tr>
+</table>
+
+
+<table class="table table-striped table-bordered table-condensed no-margin small">
+<tr>
+	<td class="bold" colspan="2">
+		Não há anotações anexadas a esta tarefa.	</td>
+</tr>
+</table>
+
+
+
+<hr><br style="mso-special-character: line-break; page-break-before: always" /><table class="table table-striped table-bordered table-condensed no-margin small">
+<tr>
+	<td class="bold" colspan="6">
+		Ver Detalhes da Tarefa	</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr class="bold">
+	<td width="16%">
+		Núm:	</td>
+	<td width="16%">
+		Categoria:	</td>
+	<td width="16%">
+		Gravidade:	</td>
+	<td width="16%">
+		Freqüência:	</td>
+	<td width="16%">
+		Data de Envio:	</td>
+	<td width="16%">
+		Última Atualização:	</td>
+</tr>
+<tr>
+	<td>
+		4	</td>
+	<td>
+		[Biblioteca] General	</td>
+	<td>
+		grande	</td>
+	<td>
+		sempre	</td>
+	<td>
+		2020-10-29 01:21	</td>
+	<td>
+		2020-10-29 01:21	</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr>
+	<td class="bold">
+		Relator:	</td>
+	<td>
+		<span >administrator</span>	</td>
+	<td class="bold">
+		Plataforma:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Atribuído a:	</td>
+	<td>
+			</td>
+	<td class="bold">
+		SO:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Prioridade:	</td>
+	<td>
+		alta	</td>
+	<td class="bold">
+		Versão SO:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Estado:	</td>
+	<td>
+		novo	</td>
+	<td class="bold">
+		Versão do Produto:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Compilação do Produto:	</td>
+	<td>
+			</td>
+	<td class="bold">
+		Resolução:	</td>
+	<td>
+		aberto	</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Projeção:	</td>
+	<td>
+		nenhuma	</td>
+	<td class="bold">
+		&#160;
+	</td>
+	<td>
+		&#160;
+	</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr>
+	<td class="bold">
+		Tempo Estimado:	</td>
+	<td>
+		nenhum	</td>
+	<td class="bold">
+		Corrigido na Versão:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+
+</tr>
+<tr>
+	<td class="bold">
+		&#160;
+	</td>
+	<td>
+		&#160;
+	</td>
+	<td class="bold">
+		Previsto para a Versão:	</td>
+	<td>
+			</td>
+	<td colspan="2">&#160;</td>
+</tr>
+<tr class="spacer" >
+	<td colspan="6"></td>
+</tr>
+<tr>
+	<td class="bold">
+		Resumo:	</td>
+	<td colspan="5">
+		Nenhum registro encontrado	</td>
+</tr>
+<tr>
+	<td class="bold">
+		Descrição:	</td>
+	<td colspan="5">
+		Quando a listagem não trouxer nenhum elemento, deve aparecer na página a mensagem “Nenhum registro encontrado”. 	</td>
+</tr>
+<tr>
+	<td class="print">
+		Marcadores:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+<tr>
+	<td class="bold">
+		Passos para Reproduzir:	</td>
+	<td colspan="5">
+		Digitar qualquer coisa no Filtro de listagem	</td>
+</tr>
+<tr>
+	<td class="bold">
+		Informações Adicionais:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+<tr>
+	<td class="bold">
+		Arquivos Anexados:	</td>
+	<td colspan="5">
+			</td>
+</tr>
+
+<tr class="spacer"><td colspan="6"></td></tr>
+</table>
+
+
+<table class="table table-striped table-bordered table-condensed no-margin small">
+<tr>
+	<td class="bold" colspan="2">
+		Não há anotações anexadas a esta tarefa.	</td>
+</tr>
+</table>
+
+
+
+<hr>	<script type="text/javascript" src="/mantis/js/bootstrap-3.4.1.min.js"></script>
+	<script type="text/javascript" src="/mantis/js/moment-with-locales-2.24.0.min.js"></script>
+	<script type="text/javascript" src="/mantis/js/bootstrap-datetimepicker-4.17.47.min.js"></script>
+	<script type="text/javascript" src="/mantis/js/typeahead.jquery-1.3.0.min.js"></script>
+	<script type="text/javascript" src="/mantis/js/list-1.5.0.min.js"></script>
+	<script type="text/javascript" src="/mantis/js/ace.min.js"></script>
+</body>
+</html>

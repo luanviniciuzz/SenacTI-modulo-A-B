@@ -1,0 +1,178 @@
+﻿@model Interesse
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Hotsite";
+}
+
+<div class="row">    
+<div class="col-sm-4">
+        <br>
+        <h1>Iniciativa Saúde da Cidade</h1>
+        <p>
+            Texto sobre vida saudável: Lorem ipsum dolor sit amet et delectus accommodare his consul copiosae legendos at vix ad putent delectus delicata usu. Vidit dissentiet eos cu eum an brute copiosae hendrerit.
+        </p>
+        <p>
+            Texto sobre vida iniciativa: Lorem ipsum dolor sit amet et delectus accommodare his consul copiosae legendos at vix ad putent delectus delicata usu. Vidit dissentiet eos cu eum an brute copiosae hendrerit.
+        </p>
+</div>
+
+<div class="col-sm-8">
+    <br>
+    <img src="~/img/img1.jpg" class="img-fluid"/>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+        <h2>Entre em contato!</h2>
+    <p>Nos mande uma mensagem e fique por dentro de nossos eventos</p>
+
+    <form action="/Home/Cadastrar" method="POST">
+        <div class="form-group row">
+            <label asp-for="Nome" for="colFormLabel" class="col-sm-2 col-form-label">Nome</label>
+            <div class="col-sm-10">
+            <input asp-for="Nome" type="name" class="form-control" id="colFormLabel">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label asp-for="Email" for="colFormLabel" class="col-sm-2 col-form-label">Email</label>
+            <div class="col-sm-10">
+            <input asp-for="Email" type="email" class="form-control" id="colFormLabel" placeholder="exemplo@email.com">
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Mensagem" for="exampleFormControlTextarea1">Mensagem(Opcional)</label>
+            <textarea asp-for="Mensagem" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        </div>
+        <div>
+            <input type="submit" value="Enviar" />
+        </div>
+    </form>
+    <p class="text-danger">@ViewData["Mensagem"]</p>    
+</div>
+<div class="com-sm-8">
+    <br>
+    <br>
+    <div class="container">
+        <div class="col align-self-center">
+            <div class="card-deck" style="width: 35rem;" >
+                <div class="card">
+                    <img src="~/img/agendaEventos.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#agenda">
+                    Agenda de Eventos
+                    </button>                                  
+                </div>
+                </div>              
+                <div class="card">
+                    <img src="~/img/dicasSaudaveis.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#dicas">
+                    Dicas de Saúde
+                    </button>          
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="~/img/grupoApoiadores.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#apoio">
+                    Apoiadores
+                    </button>     
+                </div>
+                </div>
+            </div>
+        </div>        
+    </div>                
+
+<!-- Modal Agenda -->
+        <div class="modal fade" id="agenda" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">Agenda</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">          
+                    <h5>10\10\10 10:10 - EVENTO 1</h5>
+                    <p>Lorem ipsum dolor sit amet et delectus accommodare his consul</p>
+
+                    <h5>10\10\10 10:10 - EVENTO 1</h5>
+                    <p>Lorem ipsum dolor sit amet et delectus accommodare his consul</p>
+
+                    <h5>10\10\10 10:10 - EVENTO 1</h5>
+                    <p>Lorem ipsum dolor sit amet et delectus accommodare his consul</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>        
+            </div>
+            </div>
+        </div>
+        </div>
+<!-- Modal Dicas de Saúde -->
+        <div class="modal fade" id="dicas" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">Dicas de Saúde</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">        
+                    
+                    <p>Lorem ipsum dolor sit amet et delectus accommodare his consul
+                        sit amet et delectus accommodare his consul sit amet et delectus
+                         accommodare his consul sit amet et delectus accommodare his consul                        
+                    </p>
+                    <p>Lorem ipsum dolor sit amet et delectus accommodare his consul
+                        sit amet et delectus accommodare his consul sit amet et delectus
+                         accommodare his consul sit amet et delectus accommodare his consul                        
+                    </p>
+                    <p>Lorem ipsum dolor sit amet et delectus accommodare his consul
+                        sit amet et delectus accommodare his consul sit amet et delectus
+                         accommodare his consul sit amet et delectus accommodare his consul                        
+                    </p>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>        
+            </div>
+            </div>
+        </div>
+        </div>
+<!-- Modal Apoiadores -->
+        <div class="modal fade" id="apoio" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="staticBackdropLabel">Dicas de Saúde</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">          
+                    <h5>Empresa 1</h5>
+                    <p>Lorem ipsum dolor sit amet et delectus accommodare his consul</p>
+
+                    <h5>Empresa 2</h5>
+                    <p>Lorem ipsum dolor sit amet et delectus accommodare his consul</p>
+
+                    <h5>Empresa 4</h5>
+                    <p>Lorem ipsum dolor sit amet et delectus accommodare his consul</p>
+
+                    <h5>Empresa 5</h5>
+                    <p>Lorem ipsum dolor sit amet et delectus accommodare his consul</p>
+
+                    <h5>Empresa 6</h5>
+                    <p>Lorem ipsum dolor sit amet et delectus accommodare his consul</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>        
+            </div>
+            </div>
+        </div>
+        </div>
+</div>
+
+

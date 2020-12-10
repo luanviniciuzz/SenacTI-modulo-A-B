@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Notable&display=swap');
+
+.logo{
+    padding: 50px;
+}
+.search-box{
+    position: absolute;
+    width: 687px;
+    height: 44px;
+    left: 538px;
+    top: 107px;
+    background: #FFFFFF;
+    border: 3px solid #15128A;
+    box-sizing: border-box;
+    border-radius: 11px;
+}
+.wrap-search-box .input{
+    border: 0;
+    outline: none;    
+    font-family: 'Noto Sans KR', sans-serif;
+}
+.wrap-search-box .search-box{
+    width: 687px;
+    height: 44px;
+    left: 538px;
+    top: 107px;
+}
+.search-box i{
+    margin: auto;
+    padding:10px;
+}
+.navbar{
+    border-bottom: 3px solid #15128A;
+    border-top: 3px solid #15128A;
+}
+.nav-link{
+    font-family: 'Notable', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    
+    line-height: 31px;
+    color: #4493EF;
+    text-decoration: none;
+}
+.nav-item{
+    margin-left: 10px;
+}
+.navbar{
+    padding: 0%;
+}
+.dropdown{
+    float: left;
+}
+
+@media(min-width:1200px){
+    .dropdown-menu{
+        min-width: 1200px;
+    }
+}
+.navbar-toggler .navbar-toggler-icon{
+    color: #4493EF;
+}
+.nav-item1{
+    font-family: 'Notable', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 31px; 
+    color: #4493EF;
+    text-decoration: none;    
+}
+.nav-item2{
+    font-family: 'Notable', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 31px;    
+    color: #4493EF;
+    text-decoration: none;    
+}
+.nav-item3{
+    font-family: 'Notable', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 31px;     
+    color: #4493EF;
+    text-decoration: none;    
+}
+h5{
+    font-family: 'Notable', sans-serif;
+    font-size: 24px;
+    color: #E68933; 
+}
+.dropdown-item{
+    font-family: 'Oswald', sans-serif;
+    font-weight: bolder;
+}
+.titulo h1{
+    text-align: center;
+    font-family: 'Notable', sans-serif;
+    font-size: 24px;
+    color: #E68933;
+}
+.card1{
+    
+    width: 172px;
+    height: 369px;
+    left: 218px;
+    top: 338px;    
+}
+.card2{
+    
+    width: 172px;
+    height: 369px;
+    left: 486px;
+    top: 344px;
+}
+.card3{
+    
+    width: 172px;
+    height: 369px;
+    left: 754px;
+    top: 338px;
+}
+.card4{
+    
+    width: 172px;
+    height: 369px;
+    left: 1022px;
+    top: 338px;
+}
+.card-title{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.card-body{
+    padding: 0%;
+}
+.row{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.text-center{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.camisaPreta{
+    font-family: 'Oswald', sans-serif;
+    font-weight: bolder;
+}
+.descricaosemgraca{
+    margin-top: 50px;
+}
+.desk-zoom{
+    margin-top: 20px;
+}
+.thumbs{
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+}
+.apresentacao{
+    width: 372px;
+    height: 588px;
+    margin: 1px;
+}
+.slide{
+    margin-top: 20px;
+}
+.escolher{
+    margin-top: 20px;
+    padding-left: 30px;
+    
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    outline:  #E68933;
+    background-color: #E68933;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid #E68933;
+}

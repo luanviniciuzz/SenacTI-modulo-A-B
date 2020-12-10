@@ -1,0 +1,46 @@
+@model List<Usuario>
+@{
+    ViewData["Title"] = "Listagem de Usuarios Cadastrados";
+}
+<div class="row">
+    <div class="col-md-12">
+    <form class="form-inline" method="POST">
+        <div class="form-group mb-2">
+            <select name="TipoFiltroUsuario" class="form-control">
+                <option value="NomeUsuarioCadastro">Nome</option>
+                <option value="CpfUsuario">CPF</option>
+            </select>
+        </div>
+        <div class="form-group mb-2 mx-sm-3">
+            <input type="text" placeholder="Filtro" name="FiltroUsuario" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary mb-2">Pesquisar</button>
+    </form>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-striped"> 
+            <thead>
+                <tr><th>Id</th>
+                <th>Nome</th>
+                <th>CPF</th>                
+                <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(Usuario u in Model)
+                {
+                <tr>
+                    <td>@u.Id</td>
+                    <td>@u.NomeUsuarioCadastro</td>
+                    <td>@u.CpfUsuario</td>                    
+                    <td><a href="/Usuario/Edicao/@u.Id">Editar</a></td>
+                    <td><a href="ExcluirUsuario?Id=@u.Id" style="text-decoration:none"> Excluir </a></td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

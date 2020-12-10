@@ -1,0 +1,30 @@
+@model PreAgendamento
+
+<form method="POST">
+    <h2>Pré-Agendamento</h2>
+    <p>
+        <label asp-for="nome">Nome:</label>
+        <input asp-for="nome"/>
+    </p>
+    <p>
+        <label asp-for="telefone">Telefone:</label>
+        <input asp-for="telefone"/>
+    </p>
+    <p>
+        <label asp-for="data">Data:</label>
+        <input asp-for="data"/>
+    </p>
+    <p>
+        <label asp-for="animal">Animal:</label>
+        <select asp-for="animal">
+            <option value="Cachorro">Cachorro</option>
+            <option value="Gato">Gato</option>
+            <option value="Ave">Ave</option>
+        </select>
+    </p>
+    <p>
+        <label asp-for="necessidade">Necessidade:</label>
+        <textarea asp-for="necessidade"></textarea>
+    </p>
+    <input type="submit" value="Enviar"/>
+</form>

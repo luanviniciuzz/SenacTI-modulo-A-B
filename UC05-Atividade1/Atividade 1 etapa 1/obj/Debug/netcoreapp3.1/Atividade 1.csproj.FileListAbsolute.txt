@@ -1,0 +1,13 @@
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 1\bin\Debug\netcoreapp3.1\Atividade 1.exe
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 1\bin\Debug\netcoreapp3.1\Atividade 1.deps.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 1\bin\Debug\netcoreapp3.1\Atividade 1.runtimeconfig.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 1\bin\Debug\netcoreapp3.1\Atividade 1.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 1\bin\Debug\netcoreapp3.1\Atividade 1.dll
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 1\bin\Debug\netcoreapp3.1\Atividade 1.pdb
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 1\obj\Debug\netcoreapp3.1\Atividade 1.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 1\obj\Debug\netcoreapp3.1\Atividade 1.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 1\obj\Debug\netcoreapp3.1\Atividade 1.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 1\obj\Debug\netcoreapp3.1\Atividade 1.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 1\obj\Debug\netcoreapp3.1\Atividade 1.dll
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 1\obj\Debug\netcoreapp3.1\Atividade 1.pdb
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 1\obj\Debug\netcoreapp3.1\Atividade 1.genruntimeconfig.cache

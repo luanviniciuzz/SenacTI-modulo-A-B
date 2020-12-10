@@ -1,0 +1,38 @@
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.exe
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.deps.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.runtimeconfig.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.dll
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.pdb
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.Views.dll
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.Views.pdb
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorAssemblyInfo.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorAssemblyInfo.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.TagHelpers.input.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.TagHelpers.output.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorCoreGenerate.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamento.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registrado.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Serviços.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.RazorTargetAssemblyInfo.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.Views.pdb
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 2.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 2.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.dll
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.pdb
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\UC05\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.csproj.CopyComplete

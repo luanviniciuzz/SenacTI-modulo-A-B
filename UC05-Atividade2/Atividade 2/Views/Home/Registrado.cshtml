@@ -1,0 +1,24 @@
+@model List<PreAgendamento>
+    
+<h2>Agendamento realizado com sucesso.</h2>
+<table>
+   <thead>
+       <tr>
+           <th>Nome |</th>
+           <th>Telefone |</th>
+           <th>Data |</th>
+           <th>Animal |</th>
+           <th>Necessidade</th>
+       </tr>
+   </thead>
+   <tbody>
+       <tr>
+           <td>@ViewBag.nome</td>
+           <td>@ViewBag.telefone</td>
+           <td>@ViewBag.data</td>
+           <td>@ViewBag.animal</td>
+           <td>@ViewBag.necessidade</td>
+       </tr>
+   </tbody>
+</table>
+<p><a asp-action="Serviços">Ir para lista de Serviços</a></p>

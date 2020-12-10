@@ -1,0 +1,41 @@
+﻿@using Microsoft.AspNetCore.Http
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="~/css/site.css"/>
+  <title>@ViewData["Title"] - Luan Turismo & Viagens</title>
+</head>
+<body>
+   <header>
+       <div>
+        <br>
+        <h1> Luan Turismo & Viagens</h1>
+       </div>
+    <nav>
+        <a href="/Home">Início |</a>
+        <a href="/Home/Login">Login |</a>
+        <a href="/Home/Cadastro">Cadastro |</a>
+        <a href="/Home/Pacotes">Pacote de Viagens |</a>
+        <a href="/Home/Quem">Quem somos </a>        
+          @if(Context.Session.GetInt32("idUsuario") != null)
+                {
+                <span>
+                    Olá @Context.Session.GetString("nomeUsuario")                
+                </span>
+                }        
+    </nav>
+   </header>
+   <div>
+       <main role="main">
+           @RenderBody()
+       </main>
+   </div>
+   <footer>
+       <div>
+           © 2020 - Luan Turismo & Viagens
+       </div>
+   </footer>
+</body>
+</html>

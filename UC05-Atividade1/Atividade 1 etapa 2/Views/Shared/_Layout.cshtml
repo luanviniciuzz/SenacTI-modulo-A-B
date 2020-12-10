@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="~/css/site.css" />
+  <title>@ViewData["Title"] - Pedidos</title>
+</head>
+<body>
+   <header>
+           <img src="/imagens/logocarrinho.png" style="float:left;"/>
+    <h1>Cadastro de Produtos</h1>
+    <nav>
+        <a href="/Home/ItemPedido">Registrar |</a>
+        <a href="/Home/Listagem">Listagem</a>
+    </nav>
+   </header>
+   <div>
+       <main role="main">
+           @RenderBody()
+       </main>
+   </div>
+   <footer>
+       <div>
+           © 2020 - Mercado
+       </div>
+   </footer>
+</body>
+</html>

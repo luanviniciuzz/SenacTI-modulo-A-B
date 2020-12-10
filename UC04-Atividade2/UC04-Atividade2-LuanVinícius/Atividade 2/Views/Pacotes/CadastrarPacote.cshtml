@@ -1,0 +1,35 @@
+@model pacoteRepository
+@{
+    ViewData["Title"] = "Cadastro de Pacote";
+}
+<h2>Adcionar pacotes</h2>
+<p id="pMensagem">@ViewBag.Mensagem</p>
+<form asp-action="CadastrarPacote" method="POST">
+    <p>
+        <label asp-for="nomePacote">Nome do Pacote:</label>
+        <input asp-for="nomePacote" />
+    </p>
+    <p>
+        <label asp-for="origem">Origem:</label>
+        <input asp-for="origem" />
+    </p>
+    <p>
+        <label asp-for="destino">Destino:</label>
+        <input asp-for="destino" />
+    </p>
+    <p>
+        <label asp-for="atrativos">Atrativos:</label>
+        <input asp-for="atrativos" />
+    </p>
+    <p>
+        <label asp-for="saida">Data da saída:</label>
+        <input asp-for="saida" />
+    </p>
+    <p>
+        <label asp-for="retorno">Data do retorno:</label>
+        <input asp-for="retorno" />
+    </p>
+    <p>
+        <input type="submit" value="Cadastrar" />
+    </p>
+</form>
